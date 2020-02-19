@@ -44,6 +44,9 @@ data:
     description: 'area in Europe of the country in unit of kilometer square'
   - name: 'area_comment'
     description: 'notes about the area'
+license:
+- name: Creative Commons Attribution-ShareAlike License
+  link: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
 references:
 - link: 'https://en.wikipedia.org/wiki/List_of_European_countries_by_area'
   name: 'List of European countries by area from Wikipedia'
